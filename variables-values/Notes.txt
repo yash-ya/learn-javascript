@@ -1,0 +1,13 @@
+Primitive Types
+- Number
+- String
+- Boolean
+- Null
+- Undefined
+- Symbol
+- BigInt
+
+
+Variable declaration keywords
+
+- let, var, const
